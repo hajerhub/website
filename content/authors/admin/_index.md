@@ -1,7 +1,7 @@
 ---
 title: Hajer Sabil
 role: welcome to my lookbook 🎞
-avatar_filename: screenshot-from-2021-09-04-19-02-55.png
+avatar_filename: avatar.png
 bio: ""
 social:
   - icon: envelope
