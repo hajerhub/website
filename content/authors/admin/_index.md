@@ -7,14 +7,11 @@ social:
   - icon: envelope
     icon_pack: fas
     link: about/#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.instagram.com/hajer.sabil/
 organizations:
-  - name: Stanford University
+  - name: Lehigh University
     url: ""
 superuser: true
 ---
