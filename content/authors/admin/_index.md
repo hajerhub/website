@@ -1,7 +1,8 @@
 ---
 title: Hajer Sabil
 role: welcome to my lookbook 🎞
-bio: 📍philly | 🌍 🇸🇩 lifestyle | fashion | lehigh 🤎
+avatar_filename: screenshot-from-2021-09-04-19-02-55.png
+bio: ""
 social:
   - icon: envelope
     icon_pack: fas
@@ -17,3 +18,4 @@ organizations:
     url: ""
 superuser: true
 ---
+📍philly | 🌍 🇸🇩 lifestyle | fashion | lehigh 🤎
